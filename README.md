@@ -1,27 +1,26 @@
-## Space Giveaway Botu
-Space Giveaway botu, Discord sunucunuzdaki çekilişlerinizi daha kaliteli hale getirmek için tasarlanmış bir botudur. Botunuzun iki dilde gelmesi, çekilişlerinize şartlar eklemeniz, ödülleri otomatik teslim etmeniz ve daha birçok özellik sunmasıyla, kullanıcıların çekiliş deneyimini üst seviyeye taşıyoruz.
+:robot: Space Giveaway Bot Nedir?
+Space, "şu anlık" 2 farklı dil desteği sunan, gelişmiş bir çekiliş botudur. İçinde düz çekiliş özellikleri hariç, gelişmiş ek özellikler bulunmaktadır.
 
-## Özellikler
-Türkçe ve İngilizce dil desteği
-Çekiliş şartları ekleyebilme
-Otomatik ödül teslimi
-Kolay kullanıcı arayüzü
+:tada: Kolay kullanım, bol içerik
+Tek yapmanız gereken bir kanalda **/çekiliş oluştur** veya **/giveaway create** komutunu kullanmak. Karşınıza çıkan modala gerekli bilgileri girdikten sonra -isterseniz ilk istenen bilgileri atlayabilirsiniz-, çıkan embed mesaj altındaki butonlarla çekilişinizi yönetmek ve başlatmak.
 
-## Kurulum 
-Botumuzu kurmak ve çalıştırmak için aşağıdaki adımları izleyin:
+:art: Tamamen özelleştirilebilir
+Çekiliş embed fotoğrafını, thumbnailını ve kenar çizgisi rengini dahi değiştirebilirsiniz. Kontrol sizde.
 
-Botumuzu sunucunuza davet edin.
-`/çekiliş oluştur` komutunu kullanarak çekiliş oluşturun.
+🛠️ Özel yetkilendirme sistemi
+Botu kullanması için bir kullanıcıya illaki yetki vermenize gerek yok, **/yetkili** komutlarıyla bir kullanıcıyı bota yetkili gibi gösterebilirsiniz.
 
-## Kullanım
-Botu kullanarak bir çekiliş oluşturmak için aşağıdaki adımları izleyin:
-`/çekiliş oluştur` komutunu kullanın.
-Çekiliş için gerekli şartları ekleyin. (opsiyonel)
-Ödül olarak vermek istediğiniz rol ID'lerini belirtin. (opsiyonel)
-Çekilişi başlatın.
+:united_nations: Multi dil yönetimi
+Dil seçimi yapmak için komutlarla uğraşmanıza gerek yok, sunucu ayarlarınızdan topluluk ayarlarınızı yönetin, hepsi bu. Her kullanıcıya görünen sistemlerde bu dil geçerli olur, ephemeral (kişinin görebildiği) özel cevaplarda ise Discord client diliniz geçerli olur.
 
-## Destek
-Bot hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [Discord sunucumuza](https://discord.gg/S9CKDDqqtK) katılın veya bizimle iletişime geçin.
+:gift: Düzenli ödül dağıtımı
+Eğer çekilişiniz rol(ler) üzerineyse, kazananlara tek tek rol atamanıza gerek yok. Space otomatik olarak ödül olan rolleri dağıtacak.
 
-## Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+:bar_chart: Anketler yapın
+Space Giveaway ile sunucunuzda anketler yapıp etkileşim sonucu alabilirsiniz. 
+
+:handshake: İlgili ve kaliteli ekip
+Geliştiricilerimiz, ekibimizi hem çeviri hem de moderasyon anlamında genişletiyor ve bu ekibin kaliteli olmasına daima dikkat ediyor.
+
+:file_folder: Güvenli
+400'den fazla sunucu, Space Giveaway'i tercih ediyor. Çekiliş ödülü adınıza ait veriler bile kalıcı olarak saklanmaz, verileriniz bizimle güvende.
